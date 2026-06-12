@@ -1,0 +1,9 @@
+[project]
+name = "waterdrop_experiment"
+version = "0.1.0"
+description = "Bayesian Optimization experiment for ridge length & bucket fluid containment."
+dependencies = [
+    "madsci-client",
+    "scikit-optimize",
+    "numpy"
+]
